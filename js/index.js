@@ -21,6 +21,10 @@ var checkTypeOfUber = function () {
         return 'uberSUV';
     if (uberBlack.checked)
         return 'uberBlack';
+
+
+
+        
 }
 
 var billWaitingTime = function (waitingTime, timePrice) {
